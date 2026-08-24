@@ -1,1 +1,1 @@
-# Structured-Programming-Language
+# STRUCTURED PROGRAMMING LANGUAGE
