@@ -2,7 +2,7 @@
 
 int main() {
     int a, b, temp;
-    printf("Enter two integers: ");
+    printf("Enter two integers numbers: ");
     scanf("%d %d", &a, &b);
 
     int originalA = a, originalB = b;
