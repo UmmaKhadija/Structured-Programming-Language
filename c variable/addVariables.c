@@ -1,9 +1,0 @@
-#include<stdio.h>
-int main()
-{ 
-    int num = 07;
-    int othernum = 10;
-    num = othernum;
-    printf("%d", num);
-    return 0;
-}
