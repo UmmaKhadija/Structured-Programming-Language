@@ -1,12 +1,15 @@
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
-    int i;
-    
-    for(i=1; i<=10 ; i++)
+    int n, fact = 1, i;
+    printf("Enter a number: ");
+    scanf("%d", &n);
+
+    for (i = 1; i <= n; i++)
     {
-        printf("%d\n", i);
+        fact = fact * i;
     }
+    printf("%d\n", fact);
 
     return 0;
 }
